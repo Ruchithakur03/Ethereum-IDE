@@ -11,6 +11,4 @@ Whew! That sounds like a lot, but you’ve actually seen all of this throughout 
 Introduction to Data Types
 Mapping in Solidity
 Functions Demonstration
-(Same as #3.)
 Conditional Statements
-Lastly, here is a basic contract fi
